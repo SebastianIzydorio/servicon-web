@@ -51,5 +51,6 @@ Contributor(s):
     <mapping class="br.edu.ifpe.servicon.model.entidades.Endereco"/>
     <mapping class="br.edu.ifpe.servicon.model.entidades.Pessoa"/>
     <mapping class="br.edu.ifpe.servicon.model.entidades.Profissional"/>
+    <mapping class="br.edu.ifpe.servicon.model.entidades.Pagamento"/>
   </session-factory>
 </hibernate-configuration>
